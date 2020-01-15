@@ -1,0 +1,13 @@
+main\AddCustomerTest.class
+process\Search.class
+suite\DemoTestSuite.class
+main\AssertTest.class
+main\WaitsTest.class
+bean\ConnectBean.class
+main\SearchTest.class
+main\DatabaseTest.class
+util\Util.class
+main\ElementTest.class
+main\ExcelTest.class
+bean\CustomerBean.class
+main\JavaScriptTest.class

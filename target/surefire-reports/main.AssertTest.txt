@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: main.AssertTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.782 sec <<< FAILURE! - in main.AssertTest
+testAssert(main.AssertTest)  Time elapsed: 23.782 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<...vaServerFaces/faces/[add].xhtml> but was:<...vaServerFaces/faces/[index].xhtml>
+	at org.junit.Assert.assertEquals(Assert.java:125)
+	at org.junit.Assert.assertEquals(Assert.java:147)
+	at main.AssertTest.testAssert(AssertTest.java:43)
+
